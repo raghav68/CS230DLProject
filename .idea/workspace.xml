@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="109707e6-373c-40f9-b937-f1e626a951d2" name="Default Changelist" comment="" />
+    <list default="true" id="109707e6-373c-40f9-b937-f1e626a951d2" name="Default Changelist" comment="RK++">
+      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rpackages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,8 +31,17 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -33,21 +54,62 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590293497257</updated>
-      <workItem from="1590293499057" duration="23000" />
+      <workItem from="1590293499057" duration="396000" />
+      <workItem from="1590375521280" duration="270000" />
+      <workItem from="1591309213969" duration="936000" />
+      <workItem from="1591310156554" duration="1571000" />
+      <workItem from="1591312763714" duration="1315000" />
+      <workItem from="1591314093247" duration="902000" />
     </task>
+    <task id="LOCAL-00001" summary="RK++">
+      <created>1590293621894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590293621894</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RK++" />
+    <option name="LAST_COMMIT_MESSAGE" value="RK++" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="452" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591309337321">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="452" y="261" key="#com.intellij.fileTypes.FileTypeChooser/1440.-53.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1591309337321" />
+    <state width="1398" height="154" key="GridCell.Tab.0.bottom" timestamp="1591314112293">
+      <screen x="1440" y="-53" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="154" key="GridCell.Tab.0.bottom/1440.-53.1920.1057/0.23.1440.877@1440.-53.1920.1057" timestamp="1591314112293" />
+    <state width="1398" height="154" key="GridCell.Tab.0.center" timestamp="1591314111832">
+      <screen x="1440" y="-53" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="154" key="GridCell.Tab.0.center/1440.-53.1920.1057/0.23.1440.877@1440.-53.1920.1057" timestamp="1591314111832" />
+    <state width="1398" height="154" key="GridCell.Tab.0.left" timestamp="1591314111829">
+      <screen x="1440" y="-53" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="154" key="GridCell.Tab.0.left/1440.-53.1920.1057/0.23.1440.877@1440.-53.1920.1057" timestamp="1591314111829" />
+    <state width="1398" height="154" key="GridCell.Tab.0.right" timestamp="1591314112056">
+      <screen x="1440" y="-53" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="154" key="GridCell.Tab.0.right/1440.-53.1920.1057/0.23.1440.877@1440.-53.1920.1057" timestamp="1591314112056" />
     <state x="1909" y="24" key="SettingsEditor" timestamp="1590293521545">
       <screen x="1440" y="-53" width="1920" height="1057" />
     </state>
     <state x="1909" y="24" key="SettingsEditor/1440.-53.1920.1057/0.23.1440.877@1440.-53.1920.1057" timestamp="1590293521545" />
-    <state x="2083" y="166" key="git4idea.merge.GitPullDialog" timestamp="1590293585946">
+    <state x="2007" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1591312768070">
       <screen x="1440" y="-53" width="1920" height="1057" />
     </state>
-    <state x="2083" y="166" key="git4idea.merge.GitPullDialog/1440.-53.1920.1057/0.23.1440.877@1440.-53.1920.1057" timestamp="1590293585946" />
+    <state x="2007" y="330" key="com.intellij.ide.util.TipDialog/1440.-53.1920.1057/0.23.1440.877@1440.-53.1920.1057" timestamp="1591312768070" />
+    <state x="2083" y="166" key="git4idea.merge.GitPullDialog" timestamp="1590293636823">
+      <screen x="1440" y="-53" width="1920" height="1057" />
+    </state>
+    <state x="2083" y="166" key="git4idea.merge.GitPullDialog/1440.-53.1920.1057/0.23.1440.877@1440.-53.1920.1057" timestamp="1590293636823" />
   </component>
 </project>
