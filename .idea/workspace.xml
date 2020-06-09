@@ -117,9 +117,10 @@
     </state>
     <state x="351" y="139" key="SettingsEditor/1440.-53.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1591319446507" />
     <state x="1909" y="24" key="SettingsEditor/1440.-53.1920.1057/0.23.1440.877@1440.-53.1920.1057" timestamp="1591321334109" />
-    <state x="2000" y="211" key="Vcs.Push.Dialog.v2" timestamp="1591318227097">
-      <screen x="1440" y="-53" width="1920" height="1057" />
+    <state x="420" y="242" key="Vcs.Push.Dialog.v2" timestamp="1591664675546">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="420" y="242" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1591664675546" />
     <state x="2000" y="211" key="Vcs.Push.Dialog.v2/1440.-53.1920.1057/0.23.1440.877@1440.-53.1920.1057" timestamp="1591318227097" />
     <state x="2007" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1591591338543">
       <screen x="1440" y="-53" width="1920" height="1057" />
